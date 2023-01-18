@@ -1,0 +1,9 @@
+mysql:
+  addr: 124.222.180.213:3306
+  dbname: douyin
+  username: douyin
+  password: douyin
+redis:
+  addr: 124.222.180.213:6379
+  password: douyin
+  db: 0
